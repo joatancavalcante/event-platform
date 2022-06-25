@@ -1,0 +1,5 @@
+npm i tailwindcss postcss autoprefixer -D
+
+npx tailwindcss init -p e editar a seção content do arquivo tailwind.config.js
+
+https://svg2jsx.com/ site para converter imagem svg em jsx
