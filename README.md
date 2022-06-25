@@ -4,8 +4,6 @@
 Plataforma para cadastro em eventos online.
 
 
-
-
 ## Execução
 
 ```bash
